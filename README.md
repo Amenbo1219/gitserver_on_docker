@@ -40,7 +40,7 @@ git push -u origin main
 以降，ユーザー作成時に作成した，IDとパスワードを入力する．
  
 # Note
-ssh ポートの開放は，公式ページは以下のサイトから詳細である．
+ssh ポートの開放は，公式ページは以下のサイトから詳細できる．
 (https://docs.gitea.io/en-us/install-with-docker/) 
 # Author
  
